@@ -11,4 +11,8 @@ In the industry, you should not implement your own Basic authentication system a
 ## Read or watch:
 - https://www.youtube.com/watch?v=501dpx2IjGY
 - https://docs.python.org/3.7/library/base64.html
-- 
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization
+- https://palletsprojects.com/projects/flask/
+- https://chatgpt.com/c/67331ef1-fcc8-8003-bbcc-fb7447e793cb
+- https://en.wikipedia.org/wiki/Base64
+- https://chatgpt.com/c/67331ef1-fcc8-8003-bbcc-fb7447e793cb
