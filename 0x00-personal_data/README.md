@@ -2,6 +2,9 @@
 
 This project contains tasks for learning to protect a user's personal data.
 
+![5c48d4f6d4dd8081eb48](https://github.com/user-attachments/assets/1512f82d-2e7b-4f8c-bd8a-bd195c320479)
+
+
 ## Tasks To Complete
 
 + [x] 0. **Regex-ing**<br/>[filtered_logger.py](filtered_logger.py) contains a function called `filter_datum` that returns the log message obfuscated with the following requirements:
